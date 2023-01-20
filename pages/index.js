@@ -18,14 +18,8 @@ const PROJECTS = [
   { name: "OutPlay", href: "https://outplay.games/" },
   { name: "Stake.GG", href: "https://www.stake.gg/" },
   { name: "Mintbase", href: "https://mintbase.io/" },
-  { name: "Snark Art", href: "https://snark.art/" },
-  { name: "Xeggo", href: "https://xeggo.co/" },
-  { name: "Trailit", href: "https://www.trailit.co/" },
-  { name: "Boxscore", href: "https://boxscore.live/" },
   { name: "MintGate", href: "https://www.mintgate.app/" },
-  { name: "Vezt", href: "https://www.vezt.co/" },
   { name: "Zod", href: "https://www.zod.tv/" },
-  { name: "Pixel Party", href: "https://www.near-pixelparty.co/" },
 ];
 
 function Home(props) {
