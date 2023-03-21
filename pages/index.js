@@ -10,16 +10,28 @@ import HumanLogo from "~/components/HumanLogo";
 import Footer from "~/components/Footer";
 
 const PROJECTS = [
+  { name: "Tamago", href: "https://www.tamastream.io/" },
+  { name: "NEARHub", href: "https://nearhub.club/" },
+  { name: "AI Land", href: "https://ailand.app/" },
+  { name: "BearVerse", href: "https://bearverse.com/" },
+  { name: "Metamon", href: "https://www.metamon.gg/" },
+  { name: "Gamenaut", href: "http://www.gamenaut.gg/" },
+  { name: "Meteor Wallet", href: "https://meteorwallet.app/" },
+  { name: "HERE Wallet", href: "https://herewallet.app/" },
+  { name: "Crystals of Naramunz", href: "https://www.naramunz.com/" },
   { name: "Paras", href: "https://paras.id/" },
-  { name: "DAORecords", href: "https://www.daorecords.org/" },
-  { name: "Berry Club", href: "https://berryclub.io/" },
-  { name: "Pulse", href: "https://pulsemarket.eth.link/#!/" },
-  { name: "Hash Rush", href: "https://hashrush.com/#/" },
-  { name: "OutPlay", href: "https://outplay.games/" },
-  { name: "Stake.GG", href: "https://www.stake.gg/" },
-  { name: "Mintbase", href: "https://mintbase.io/" },
-  { name: "MintGate", href: "https://www.mintgate.app/" },
-  { name: "Zod", href: "https://www.zod.tv/" },
+  { name: "Crypto Hero", href: "https://pd.marmaj.org/?page=cryptohero" },
+  { name: "Endless", href: "http://endless.fm/" },
+  { name: "Zomland", href: "https://zomland.com/" },
+  { name: "Carv", href: "carv.io" },
+  { name: "Enter the Sphere", href: "https://enter-the-sphere.com/" },
+  { name: "Metalordz", href: "https://metalordz.com/" },
+  { name: "Coaty", href: "https://coaty.world/" },
+  { name: "WOTA", href: "https://www.worldoftheabyss.com/" },
+  { name: "Exverse", href: "https://exv.io/" },
+  { name: "Shroom Kingdom", href: "https://shroomkingdom.net/" },
+  { name: "vSelf", href: "https://vself.app/" },
+  { name: "Spirit Dungeons", href: "https://spiritdungeons.com/" },
 ];
 
 function Home(props) {
