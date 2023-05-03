@@ -32,6 +32,10 @@ const PROJECTS = [
   { name: "Shroom Kingdom", href: "https://shroomkingdom.net/" },
   { name: "vSelf", href: "https://vself.app/" },
   { name: "Spirit Dungeons", href: "https://spiritdungeons.com/" },
+  { name: "Supa Doge", href: "https://supadoge.com/" },
+  { name: "Quant Role Play", href: "https://quant-rp.com" },
+  { name: "Apogea", href: "https://www.apogea.online/" },
+  { name: "Realis Network", href: "https://realis.network/" },
 ];
 
 function Home(props) {
